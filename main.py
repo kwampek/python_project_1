@@ -1,5 +1,7 @@
-from TextEditor import TextEditor
+from src.interface.TextEditor import TextEditor
 
-textEditor = TextEditor()
-textEditor.run()
+
+if __name__ == '__main__':
+    textEditor = TextEditor()
+    textEditor.run()
 

@@ -11,9 +11,9 @@
 -   Хоткеи для сохранения и выхода
 
 ## Запуск
-git clone https://github.com/kwampek/python_project_1.git &&
-cd python_project_1 &&
-git checkout development &&
-pip install -r requirements.txt &&
+git clone https://github.com/kwampek/python_project_1.git
+cd python_project_1
+git checkout development
+pip install -r requirements.txt
 python3 main.py
 
